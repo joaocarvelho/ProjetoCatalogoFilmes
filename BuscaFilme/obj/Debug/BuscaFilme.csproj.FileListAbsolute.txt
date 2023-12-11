@@ -1,0 +1,10 @@
+C:\Users\joao_\source\repos\BuscaFilme\bin\Debug\BuscaFilme.exe.config
+C:\Users\joao_\source\repos\BuscaFilme\bin\Debug\BuscaFilme.exe
+C:\Users\joao_\source\repos\BuscaFilme\bin\Debug\BuscaFilme.pdb
+C:\Users\joao_\source\repos\BuscaFilme\obj\Debug\BuscaFilme.csproj.AssemblyReference.cache
+C:\Users\joao_\source\repos\BuscaFilme\obj\Debug\BuscaFilme.Form1.resources
+C:\Users\joao_\source\repos\BuscaFilme\obj\Debug\BuscaFilme.Properties.Resources.resources
+C:\Users\joao_\source\repos\BuscaFilme\obj\Debug\BuscaFilme.csproj.GenerateResource.cache
+C:\Users\joao_\source\repos\BuscaFilme\obj\Debug\BuscaFilme.csproj.CoreCompileInputs.cache
+C:\Users\joao_\source\repos\BuscaFilme\obj\Debug\BuscaFilme.exe
+C:\Users\joao_\source\repos\BuscaFilme\obj\Debug\BuscaFilme.pdb
